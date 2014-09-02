@@ -1,0 +1,78 @@
+
+body{
+	background-position: center;
+	margin: auto;
+	width: 95%;
+	color: #A6A8AA;
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	background: F8F8F8;
+			}
+header{
+	margin-bottom: 0px;
+	margin-top:0px;
+			}
+h1{line-height: 15%
+	margin-left: 150px;
+	text-transform: uppercase;
+	font-size: 0.9em; 
+	color: #555;}
+#paula{line-height: 10%; }
+				
+div.menu{
+	width: 140px;}
+#logo{
+	width: 75px;
+	margin-top: 10px;
+	padding-bottom: 0px;}
+					
+ul{list-style-type:none; padding: 0px; margin: 0px; text-transform: lowercase; }
+ul.menu a:link {text-decoration: none;color: #A6A8AA; display:block;}
+ul.menu a:visited {text-decoration: none;color: #A6A8AA; list-style-type: none;}
+ul.menu a:hover {color:white; background:#000; width: 105px; display:block;}
+ul.menu a:active {color:white; background:#000; width: 105px;}
+			
+ul.menu li.selected a:link {text-decoration: none;color: #000; display:block;}
+ul.menu li.selected a:visited {color:black; background:#000; width: 105px; display:block;}
+ul.menu li.selected a:hover {color:black; background:#D8D8D8; width: 105px; display:block;}
+ul.menu li.selected a:active {color:black; background:#000; width: 105px; display:block;}
+			
+h2{
+	display: block;
+	text-transform: uppercase;
+	margin: 10px 0px 3px 0px;
+	font-size: 19px;
+	color: #777;
+				}
+.selected{color: black;
+				}		
+div.current{
+	margin: auto;
+	margin-top: 30px;
+	position: absolute;
+	color: black;
+	left: 30%;
+	float:left;
+	width: 70%;
+	max-width: 470px;
+				}
+					
+h3{display: block;}
+.image{
+	
+	position: absolute;
+	margin: auto;
+	width: 100%;
+	margin-bottom: 10px;
+	float:left;
+	}
+#aboutMePicture, #findMe{
+	width:53%;
+	margin: auto;}
+.company{float: right;}
+
+
+			
+
+				
+			
+	
